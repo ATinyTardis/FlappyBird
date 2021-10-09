@@ -1,0 +1,9 @@
+﻿  FlappyBird.cpp
+D:\code\cppProject\FlappyBird\FlappyBird\FlappyBird.cpp(36,14): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\code\cppProject\FlappyBird\FlappyBird\FlappyBird.cpp(36,21): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\code\cppProject\FlappyBird\FlappyBird\FlappyBird.cpp(36,30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\code\cppProject\FlappyBird\FlappyBird\FlappyBird.cpp(36,39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\code\cppProject\FlappyBird\FlappyBird\FlappyBird.cpp(183,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\code\cppProject\FlappyBird\FlappyBird\FlappyBird.cpp(183,19): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\code\cppProject\FlappyBird\FlappyBird\FlappyBird.cpp(282,87): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  FlappyBird.vcxproj -> D:\code\cppProject\FlappyBird\Debug\FlappyBird.exe
